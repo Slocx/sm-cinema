@@ -1,0 +1,46 @@
+{
+    "films": [
+      {
+        "id": 1,
+        "titre": "STAR WARS : EPISODE I - LA MENACE FANTÔME",
+        "description": "quia et suscipit suscipit recusandae consequuntur expedita et cum reprehenderit molestiae ut ut quas totam nostrum rerum est autem sunt rem eveniet architecto",
+        "acteurs": "acteur1, acteur2",
+        "duree": "300"
+      },
+      {
+        "id": 2,
+        "titre": "STAR WARS : EPISODE II - L'ATTAQUE DES CLONES",
+        "description": "est rerum tempore vitae sequi sint nihil reprehenderit dolor beatae ea dolores neque fugiat blanditiis voluptate porro vel nihil molestiae ut reiciendis qui aperiam non debitis possimus qui neque nisi nulla",
+        "acteurs": "acteur1, acteur2",
+        "duree": "300"
+      },
+      {
+        "id": 3,
+        "titre": "STAR WARS : EPISODE III - LA REVANCHE DES SITH",
+        "description": "et iusto sed quo iure voluptatem occaecati omnis eligendi aut ad voluptatem doloribus vel accusantium quis pariatur molestiae porro eius odio et labore et velit aut",
+        "acteurs": "acteur1, acteur2",
+        "duree": "300"
+      },
+      {
+        "id": 4,
+        "titre": "STAR WARS : EPISODE IV - UN NOUVEL ESPOIR",
+        "description": "ullam et saepe reiciendis voluptatem adipisci sit amet autem assumenda provident rerum culpa quis hic commodi nesciunt rem tenetur doloremque ipsam iure quis sunt voluptatem rerum illo velit",
+        "acteurs": "acteur1, acteur2",
+        "duree": "300"
+      },
+      {
+        "id": 5,
+        "titre": "STAR WARS : EPISODE V - L'EMPIRE CONTRE-ATTAQUE",
+        "description": "repudiandae veniam quaerat sunt sed alias aut fugiat sit autem sed est voluptatem omnis possimus esse voluptatibus quis est aut tenetur dolor neque",
+        "acteurs": "acteur1, acteur2",
+        "duree": "300"
+      },
+      {
+        "id": 6,
+        "titre": "STAR WARS : EPISODE VI - LE RETOUR DU JEDI",
+        "description": "ut aspernatur corporis harum nihil quis provident sequi mollitia nobis aliquid molestiae perspiciatis et ea nemo ab reprehenderit accusantium quas voluptate dolores velit et doloremque molestiae",
+        "acteurs": "acteur1, acteur2",
+        "duree": "300"
+      }
+    ]
+  }

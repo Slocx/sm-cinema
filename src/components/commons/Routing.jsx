@@ -2,9 +2,9 @@ import React, { Fragment } from "react";
 import { BrowserRouter as Router, Routes, Route, Navigate } from 'react-router-dom';
 import NavBar from "./NavBar";
 import Accueil from "../pages/Accueil";
-import AjoutFilms from "../pages/AjoutFilms";
 import ListFilms from "../pages/ListFilms";
 import DetailsFilm from "../pages/DetailsFilm";
+import AjoutFilms from "../pages/AjoutFilms";
 
 let pages = [
     {
