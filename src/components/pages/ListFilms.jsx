@@ -4,7 +4,7 @@ import ListAllFilms from "../ListAllFilms";
 export const ListFilms = (props) => {
     return(
         <Fragment>
-            <h1> Page ListFilms</h1>
+            <h2> Page ListFilms</h2>
             <div>
                 <ListAllFilms/>
             </div>

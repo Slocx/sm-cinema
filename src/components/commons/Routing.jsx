@@ -9,19 +9,19 @@ import AjoutFilms from "../pages/AjoutFilms";
 let pages = [
     {
         to:"/accueil",
-        nom:"Accueil"
+        nom:" Accueil "
     },
     {
         to:"/listfilms",
-        nom:"Liste des Films"
+        nom:" Liste des Films "
     },
     {
         to:"/ajoutfilms",
-        nom:"Ajout de Films"
+        nom:" Ajout de Films "
     },
     {
         to:"/detailsfilm",
-        nom:"Détails des Films"
+        nom:" Détails des Films "
     },
 ]
 

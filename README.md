@@ -1,3 +1,27 @@
+# Site Web Cinéma Exercice
+
+# Consigne
+
+1. instalation des modules manquants :
+
+    ```bash
+    npm i react-router-dom
+    ```
+
+2. creer une application cinema avec une arborescence de plusieurs pages composants fonctions.
+
+    pages:
+    - page Acceuil :presenter mon cinema et affciher quelques films à l'affiche,
+    - page liste de mes films (titre, acteurs, duree, resume ) disponibles (permet d'en supprimer),
+    - page formulaire pour ajouter des films à mon cinema,
+    - page detail film : info supplementaires sur le film (histoire, date de tournage ... ).
+
+3. gestion avec un routing.
+
+4. une navbar serarer du routing.
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).

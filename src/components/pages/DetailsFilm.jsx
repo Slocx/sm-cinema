@@ -4,7 +4,7 @@ import DescriptionFilm from "../DescriptionFilms";
 export const DetailsFilm = (props) => {
     return(
         <Fragment>
-            <h1> Page Details Film</h1>
+            <h2> Page Details Film</h2>
             <DescriptionFilm/>
         </Fragment>
     )

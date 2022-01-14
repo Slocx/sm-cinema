@@ -4,10 +4,7 @@ import AjouterFilms from "../AjouterFilms";
 export const AjoutFilms = (props) => {
     return(
         <Fragment>
-            <h1> Page AjoutFilms </h1>
-            <div>
-                Ceci est la page AjoutFilms
-            </div>
+            <h2> Page AjoutFilms </h2>
             <AjouterFilms/>
         </Fragment>
     )

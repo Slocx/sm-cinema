@@ -5,12 +5,11 @@ export const DescriptionFilm = (props)=>{
 
     return (
         <Fragment>
-
             <div>
                 {
-                  data.films.map((films, i) => {
+                  data.films.map((films) => {
                     return (
-                        <div key={i}>
+                        <div key={films.id}>
                             <p>Film numéro {films.id} :</p>
                             <p>{films.titre}</p>
                             <p>{films.body}</p>
